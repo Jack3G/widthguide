@@ -4,6 +4,8 @@ A plugin I made
 
 It makes 'colorcolumn' only show when you get close to it.
 
+## Usage
+`:WidthGuideEnable` and `:WidthGuideDisable`
 
 ## Configuration
 Widthguide has 4 options which you can set with `let g:option_here=value` or in lua: `vim.g["option_here"] = value`
